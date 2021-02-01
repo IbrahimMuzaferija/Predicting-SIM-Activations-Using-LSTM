@@ -22,3 +22,5 @@ The image below shows the model prediction results across the time.
 In the image below, model predictions across one working week are shown. It's valuable to point out that the model generalizes well and handles random fluctuations.
 
 <p align="center"><img src="https://raw.githubusercontent.com/IbrahimMuzaferija/Predicting_SIM_Activations_Using_LSTM/master/model-prediction-accuracy-graph.png"></p>
+
+While this model is constructed to forecast only one time-step, it's possible to reconstruct it to predict a series of time-steps.
